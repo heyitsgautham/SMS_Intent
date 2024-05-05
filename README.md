@@ -1,4 +1,4 @@
-# SMS_Intent
+# EX_NO_03 SMS_Intent
 
 Develop program to create and design an android application to Send SMS using Intent in Android Studio.
 
